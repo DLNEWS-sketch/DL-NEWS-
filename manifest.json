@@ -1,0 +1,20 @@
+{
+  "name": "DL News",
+  "short_name": "DL News",
+  "start_url": "https://drlight247.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#c9a13b",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEguZXJERgXHJAyp6z9TbTTNlqImqe95G-em0KgVnbLRXoMyu5v3WKPNfHtLA6K2gYE1DCI9dixE5JrGaCMTAK-wh5D0-OjUBo-flHSuokemxyaP5xfus-k1K9_ef0VceX4hy6udvg-Fx38XXwomJyOEA57M2x-PbuE0vGEsp_Nq43vlh8qLp3w4E0sUtUw=s192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEguZXJERgXHJAyp6z9TbTTNlqImqe95G-em0KgVnbLRXoMyu5v3WKPNfHtLA6K2gYE1DCI9dixE5JrGaCMTAK-wh5D0-OjUBo-flHSuokemxyaP5xfus-k1K9_ef0VceX4hy6udvg-Fx38XXwomJyOEA57M2x-PbuE0vGEsp_Nq43vlh8qLp3w4E0sUtUw=s512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
